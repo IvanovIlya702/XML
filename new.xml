@@ -1,0 +1,9 @@
+<?xml version-"1.0"?>
+<About_me>
+	<Firstname>Ilya</Firstname>
+	<LastName>Ivanov</LastName>
+	<MiddleName>Gennadevich</MiddleName>
+	<Age>31</Age>
+	<Amount_animals>0</Amount_animals>
+	<Salary>1000</Salary>
+</About_me>
