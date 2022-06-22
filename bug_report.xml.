@@ -1,1 +1,14 @@
-
+<?xml version="1.0"?>
+<Bug_report>
+    <ID>1</ID>
+    <Summary>In the authorizing on the site, the 'Login' field is blocked for input</Summary>
+    <Discription>In the authorizing on the site, the 'Login' field is blocked for input</Discription>
+    <Steps_to_reproduced>True</Steps_to_reproduced>
+    <p1>1. Opent the site.</p1>
+    <p2>2. Fill in the 'Login' field with any valid value</p2>
+    <Expected_result>The 'Login' field is available for entering characters</Expected_result>
+    <Actual_result>The 'Login' field is blocked for entering characters</Actual_result>
+    <Severity>Highest</Severity>
+    <Priority>ASAP</Priority>
+    <Attach>null</Attach>
+</Bug_report>
